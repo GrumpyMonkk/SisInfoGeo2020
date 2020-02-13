@@ -1,0 +1,3 @@
+C:\Users\everm\Documents\Repos\04.ciclos\obj\Debug\netcoreapp3.1\04.ciclos.csprojAssemblyReference.cache
+C:\Users\everm\Documents\Repos\04.ciclos\obj\Debug\netcoreapp3.1\04.ciclos.AssemblyInfoInputs.cache
+C:\Users\everm\Documents\Repos\04.ciclos\obj\Debug\netcoreapp3.1\04.ciclos.AssemblyInfo.cs
