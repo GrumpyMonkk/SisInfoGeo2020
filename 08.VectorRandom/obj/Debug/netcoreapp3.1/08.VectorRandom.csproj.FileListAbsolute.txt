@@ -1,0 +1,11 @@
+C:\Users\everm\Documents\Repos\08.VectorRandom\bin\Debug\netcoreapp3.1\08.VectorRandom.exe
+C:\Users\everm\Documents\Repos\08.VectorRandom\bin\Debug\netcoreapp3.1\08.VectorRandom.deps.json
+C:\Users\everm\Documents\Repos\08.VectorRandom\bin\Debug\netcoreapp3.1\08.VectorRandom.runtimeconfig.json
+C:\Users\everm\Documents\Repos\08.VectorRandom\bin\Debug\netcoreapp3.1\08.VectorRandom.runtimeconfig.dev.json
+C:\Users\everm\Documents\Repos\08.VectorRandom\bin\Debug\netcoreapp3.1\08.VectorRandom.dll
+C:\Users\everm\Documents\Repos\08.VectorRandom\bin\Debug\netcoreapp3.1\08.VectorRandom.pdb
+C:\Users\everm\Documents\Repos\08.VectorRandom\obj\Debug\netcoreapp3.1\08.VectorRandom.csprojAssemblyReference.cache
+C:\Users\everm\Documents\Repos\08.VectorRandom\obj\Debug\netcoreapp3.1\08.VectorRandom.AssemblyInfoInputs.cache
+C:\Users\everm\Documents\Repos\08.VectorRandom\obj\Debug\netcoreapp3.1\08.VectorRandom.AssemblyInfo.cs
+C:\Users\everm\Documents\Repos\08.VectorRandom\obj\Debug\netcoreapp3.1\08.VectorRandom.dll
+C:\Users\everm\Documents\Repos\08.VectorRandom\obj\Debug\netcoreapp3.1\08.VectorRandom.pdb
