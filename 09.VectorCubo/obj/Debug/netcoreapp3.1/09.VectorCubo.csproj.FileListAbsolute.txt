@@ -1,0 +1,11 @@
+C:\Users\everm\Documents\Repos\09.VectorCubo\obj\Debug\netcoreapp3.1\09.VectorCubo.csprojAssemblyReference.cache
+C:\Users\everm\Documents\Repos\09.VectorCubo\obj\Debug\netcoreapp3.1\09.VectorCubo.AssemblyInfoInputs.cache
+C:\Users\everm\Documents\Repos\09.VectorCubo\obj\Debug\netcoreapp3.1\09.VectorCubo.AssemblyInfo.cs
+C:\Users\everm\Documents\Repos\09.VectorCubo\bin\Debug\netcoreapp3.1\09.VectorCubo.exe
+C:\Users\everm\Documents\Repos\09.VectorCubo\bin\Debug\netcoreapp3.1\09.VectorCubo.deps.json
+C:\Users\everm\Documents\Repos\09.VectorCubo\bin\Debug\netcoreapp3.1\09.VectorCubo.runtimeconfig.json
+C:\Users\everm\Documents\Repos\09.VectorCubo\bin\Debug\netcoreapp3.1\09.VectorCubo.runtimeconfig.dev.json
+C:\Users\everm\Documents\Repos\09.VectorCubo\bin\Debug\netcoreapp3.1\09.VectorCubo.dll
+C:\Users\everm\Documents\Repos\09.VectorCubo\bin\Debug\netcoreapp3.1\09.VectorCubo.pdb
+C:\Users\everm\Documents\Repos\09.VectorCubo\obj\Debug\netcoreapp3.1\09.VectorCubo.dll
+C:\Users\everm\Documents\Repos\09.VectorCubo\obj\Debug\netcoreapp3.1\09.VectorCubo.pdb
