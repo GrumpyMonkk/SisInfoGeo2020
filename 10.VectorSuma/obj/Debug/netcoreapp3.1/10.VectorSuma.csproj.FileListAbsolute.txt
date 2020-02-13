@@ -1,0 +1,11 @@
+C:\Users\everm\Documents\Repos\10.VectorSuma\obj\Debug\netcoreapp3.1\10.VectorSuma.csprojAssemblyReference.cache
+C:\Users\everm\Documents\Repos\10.VectorSuma\obj\Debug\netcoreapp3.1\10.VectorSuma.AssemblyInfoInputs.cache
+C:\Users\everm\Documents\Repos\10.VectorSuma\obj\Debug\netcoreapp3.1\10.VectorSuma.AssemblyInfo.cs
+C:\Users\everm\Documents\Repos\10.VectorSuma\bin\Debug\netcoreapp3.1\10.VectorSuma.exe
+C:\Users\everm\Documents\Repos\10.VectorSuma\bin\Debug\netcoreapp3.1\10.VectorSuma.deps.json
+C:\Users\everm\Documents\Repos\10.VectorSuma\bin\Debug\netcoreapp3.1\10.VectorSuma.runtimeconfig.json
+C:\Users\everm\Documents\Repos\10.VectorSuma\bin\Debug\netcoreapp3.1\10.VectorSuma.runtimeconfig.dev.json
+C:\Users\everm\Documents\Repos\10.VectorSuma\bin\Debug\netcoreapp3.1\10.VectorSuma.dll
+C:\Users\everm\Documents\Repos\10.VectorSuma\bin\Debug\netcoreapp3.1\10.VectorSuma.pdb
+C:\Users\everm\Documents\Repos\10.VectorSuma\obj\Debug\netcoreapp3.1\10.VectorSuma.dll
+C:\Users\everm\Documents\Repos\10.VectorSuma\obj\Debug\netcoreapp3.1\10.VectorSuma.pdb
